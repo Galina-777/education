@@ -109,12 +109,12 @@ button:hover {
     padding: 0;
 }
 
-.card ul {
+.education {
     padding: 0;
     list-style: none;
 }
 
-.card li {
+.education li {
     border-bottom: 1px solid #ccc;
     padding: 5px 0;
 }
